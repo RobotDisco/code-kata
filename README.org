@@ -1,0 +1,14 @@
+#+TITLE: Gaelan's Code Kata Repo
+#+AUTHOR: Gaelan D'costa
+#+EMAIL: gdcosta@gmail.com
+#+DATE: <2019-08-08 Thu>
+
+** What I think Code Katas are
+   My understanding is that a code kata is doing a short programming exercise, one that takes about 1/2 hour to do once you understand it, and doing it over and over, honing your technique, or consciously thinking about what you're doing while experimenting with different approaches, different techniques, or maybe attempting to streamline a piece of your usual approach.
+** What told me this was what katas were?
+   [[http://codekata.com/][This website]]
+** What inspired you to try this kata thing?
+   My friend [[https://github.com/agentultra][@agentultra]] was tweeting about code katas and linked to a [[http://kata-log.rocks/][cool site full of them]] and it looked cool so I am going to try them.
+** How else is this project structured?
+   I don't know yet. I'm letting it grow organically since I don't know what I'm doing.
+
